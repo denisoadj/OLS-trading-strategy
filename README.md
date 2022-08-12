@@ -1,0 +1,1 @@
+# OLS-trading-strategy
